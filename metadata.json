@@ -1,0 +1,6 @@
+{
+  "name": "Freshora - Marketplace Buah & Sayuran",
+  "description": "Marketplace buah dan sayuran segar berkualitas dari kebun lokal. Dilengkapi fitur belanja, checkout, keranjang, dan dashboard admin komprehensif untuk demonstrasi Rekayasa Perangkat Lunak (RPL).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
